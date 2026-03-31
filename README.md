@@ -47,14 +47,9 @@ printf("\n Sending frame %d \n FRAME ACKNOWLEDGED.	\n",j);
 
 printf("\n\nALL FRAME RECIEVED SUCCESSFULLY\n\n");
 }
-OUTPUT:
+# OUTPUT:
+![WhatsApp Image 2026-03-21 at 12 26 49 PM](https://github.com/user-attachments/assets/b5281de4-0c59-41bd-bbe1-6b9b44e41740)
 
  
-
-
-
-
-
-
 # RESULT:
 Thus the Go-Back-N protocol- Selective Repeat was implemented and the output is verified successfully.
